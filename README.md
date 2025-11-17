@@ -1,4 +1,15 @@
-# Source code for Echoless-LP
+# Echoless-LP
+
+Source code and dataset of the paper "[Echoless Label-Based Pre-computation for Memory-Efficient Heterogeneous Graph Learning](https://arxiv.org/abs/2511.11081)", which is accepted by AAAI 2026.
+
+
+
+## Homepage and Paper
+
++ Homepage (Echoless-LP): https://github.com/CrawlScript/Echoless-LP
++ Paper Access:
+    - **ArXiv**: [https://arxiv.org/abs/2511.11081](https://arxiv.org/abs/2511.11081) 
+
 
 ## Dataset Download
 
@@ -54,4 +65,18 @@ sh scripts/run_OAG-L1-Field.sh
 
 
 
+## Cite
 
+If you use Echoless-LP in a scientific publication, we would appreciate citations to the following paper:
+
+```
+@misc{hu2025echolesslabelbasedprecomputationmemoryefficient,
+      title={Echoless Label-Based Pre-computation for Memory-Efficient Heterogeneous Graph Learning}, 
+      author={Jun Hu and Shangheng Chen and Yufei He and Yuan Li and Bryan Hooi and Bingsheng He},
+      year={2025},
+      eprint={2511.11081},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2511.11081}, 
+}
+```
